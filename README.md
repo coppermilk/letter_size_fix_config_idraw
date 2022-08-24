@@ -1,3 +1,4 @@
 # Letter size fix config iDraw
 These are size fixes and adaptation for A4 letter .
-[work.gif]
+
+![plotter](https://github.com/coppermilk/Letter-size-fix-config-iDraw/blob/main/work.gif)
